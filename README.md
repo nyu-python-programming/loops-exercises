@@ -1,6 +1,6 @@
 # Loop Problems
 
-Create a separate file for each of the following problem sets, i.e. `easy.py`, `medium.py`, and `difficult.py`.
+Create a separate file for each of the following problem sets, i.e. `easy.py`, `medium.py`, and `difficult.py`. Create separate functions for each problem. Create a `main.py` file that imports and runs each of the functions in each of the problem sets.
 
 ## Easy
 
