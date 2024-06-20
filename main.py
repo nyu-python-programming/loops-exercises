@@ -19,11 +19,20 @@ def do_medium():
     pass # do nothing
 
 def do_difficult():
-    pass # do nothing
+    difficult.one(12)
+    difficult.two()
+    difficult.three()
+    difficult.four()
+    difficult.five()
+    difficult.six()
+    difficult.seven()
+    difficult.eight()
+    difficult.nine()
+    difficult.ten()
 
 def main():
-    do_easy()
-    do_medium()
+    # do_easy()
+    # do_medium()
     do_difficult()
 
 main()
